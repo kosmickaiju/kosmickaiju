@@ -1,19 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D20A2E&height=100&section=header&text=Hey%20there!-nl-Welcome%20to%20my%20GitHub%20ᯓ★&fontSize=30&animation=twinkling&fontColor=fbfcf8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D20A2E&height=100&section=header&text=hey%20there!-nl-welcome%20to%20my%20github%20ᯓ★&fontSize=30&animation=twinkling&fontColor=fbfcf8"/>
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h2> about me </h2>
 
 ```yaml
-name: Piyush Malhotra
-located_in: Calgary, Alberta
-current_job: Full Stack Developer
+name: nicole laureno
+located_in: sarasota, fl + Durham, NC
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "bachelor of science in computer science and minor in psychology, duke university",
+    "compTIA security+ certification"
   ]
-company: Soulber
 
 fields_of_interests:
   [
@@ -34,8 +31,7 @@ technical_background:
   ]
   
 currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+hobbies: ["F1", "Cinema", "Skateboarding", "Art", "Comedy"]
 ```
   
 ---
