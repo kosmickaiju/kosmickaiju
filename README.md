@@ -1,3 +1,3 @@
 ## Welcome to my GitHub! 👋
-My name is Nicole Laureno ([LinkedIn](https://www.linkedin.com/in/nicole-laureno-9a033a257/)), and I'm a rising senior at Duke University studying a CS major and a Psych minor. I'm an aspiring ethical hacker passionate about ensuring equitable access to technology and technology education, identifying and addressing harmful biases in current technologies, and protecting the everyday internet user. In my work, I aim to use my cybersecurity skills in order to identify potential threats to software, systems, and networks and ensure the confidentiality, integrity, and availability of the data they host. People and their data are at the forefront of my work, and it is my goal to make the internet a safer and more equitable space for all.  
-*Next certs ↬ PJPT and CCNA!*
+![header](https://capsule-render.vercel.app/api?text=Hey There! Welcome to my GitHub!&type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
