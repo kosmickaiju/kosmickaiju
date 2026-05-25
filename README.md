@@ -26,6 +26,7 @@ technical_background:
   ]
   
 currently_learning: ["Nessus, Bloodhound, Mimikatz"]
+next_certifications: ["pJPT (in progress) + CCNA"]
 hobbies: ["F1"]
 ```
   
