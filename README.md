@@ -34,7 +34,10 @@ other_interests:
 ```
 
 ---
-[![Nicole's GitHub stats](https://github-readme-stats.vercel.app/api?username=kosmickaiju)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=kosmickaiju" alt="Nicole's GitHub stats" />
+</a>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=D20A2E&height=100&section=footer"/>
 </p>
