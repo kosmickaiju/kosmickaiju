@@ -9,8 +9,13 @@
 ```yaml
 name: Nicole Laureno
 located_in: Sarasota, FL + Durham, NC
-current_job: Full-time College Student
 education: Bachelor of Science in Computer Science, Minor in Psychology - Duke University
+previous_experience: [
+"Software Engineering Intern @ Forewarned, Inc",
+"Undergraduate Security Researcher @ DIABLO-1 Satellite Communications Research Team",
+"Duke Cyber Club Tech Track CTF Competitor and Instructor",
+"CS Sidekicks Assistant Publicity and Outreach Officer + Student Mentor"
+]
 ```
   
 --- 
