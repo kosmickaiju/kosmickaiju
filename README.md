@@ -29,16 +29,12 @@ technical_skills: [
 "Programming Languages: Python, Java, C, SQL, Bash, HTML/CSS, JS",
 "Tools and Platforms: Docker, Git, GitHub, Ubuntu Linux"
 ]
-career_interests:
-other_interests:
+career_interests: Offensive Security/Ethical Hacking, Security Research, AI/ML Security
+other_interests: F1
 ```
 
 ---
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=kosmickaiju" alt="Nicole's GitHub stats" />
-  </a>
-</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=D20A2E&height=100&section=footer"/>
 
