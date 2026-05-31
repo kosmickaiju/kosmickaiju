@@ -6,6 +6,13 @@
 
 <h1>whoami?</h1>
 
+<p>
+  <li>
+    name: Nicole Laureno
+    located_in: Sarasota, FL + Durham, NC
+  </li>
+</p>
+
 ```yaml
 name: Nicole Laureno
 located_in: Sarasota, FL + Durham, NC
