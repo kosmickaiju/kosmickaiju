@@ -4,9 +4,9 @@
 
 ---
 
-<h1>whoami?</h1>
+<h1 align="center">whoami?</h1>
 
-<p>
+<p align="center">
   <ul>
     <li>name: Nicole Laureno</li>
     <li>located_in: Sarasota, FL + Durham, NC</li>
@@ -17,7 +17,22 @@
 
 ---
 
-<h1>Skills and Interests</h1>
+<h1 align="center">Skills and Interests</h1>
+
+<p align="center">
+  <ul>
+    <li>Technical Skills
+      <ul>
+        <li>Programming Languages: Python, Java, C, SQL, Bash, HTML/CSS, JS</li>
+        <li>Tools + Platforms: Docker, Git, GitHub, Ubuntu Linux, MacOS, Windows, Fluent Bit, Fluentd, Wireguard, StrongSwan</li>
+        <li>Security Tools: Nmap, Wireshark, Metasploit, Kali Linux, Snort, Breach-Parse, Burp Suite</li>
+        <li>Certifications: CompTIA Security+ (SY0-701, August 2025), Practical Junior Penetration Tester (pJPT, in progress)</li>
+      </ul>
+    </li>
+    <li>Career Interests: Offensive Security/Ethical Hacking, Security Research, AI/ML Security</li>
+    <li>Other Interests: Formula 1, Cooking/Baking</li>
+  </ul>
+</p>
 
 ```yaml
 technical_skills: [
