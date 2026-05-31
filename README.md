@@ -2,32 +2,23 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=D20A2E&height=100&section=header&text=Hey%20There!-nl-Welcome%20to%20my%20GitHub%20ᯓ★&fontSize=30&animation=twinkling&fontColor=fbfcf8"/>
 </p>
 
+li::marker {
+  color: #D20A2E;
+  content: "ᯓ★ ";
+}
+
 ---
 
 <h1>whoami?</h1>
 
 <p>
-  <li>
-    name: Nicole Laureno <br>
-    located_in: Sarasota, FL + Durham, NC <br>
-    education: B.S. Computer Science + Psychology Minor - Duke University <br>
-    previous_experience: Software Engineering Intern @ Forewarned, Inc; Undergraduate Security Researcher @ DIABLO-1 Satellite Communications Research Team, Duke Cyber Club Tech Track CTF Competitor + Instructor, CS Sidekicks Assistant Publicity and Outreach Officer + Student Mentor <br>
-  </li>
+  <ul>
+    <li>name: Nicole Laureno</li>
+    <li>located_in: Sarasota, FL + Durham, NC</li>
+    <li>education: B.S. Computer Science + Psychology Minor - Duke University</li>
+    <li>previous_experience: Software Engineering Intern @ Forewarned, Inc; Undergraduate Security Researcher @ DIABLO-1 Satellite Communications Research Team, Duke Cyber Club Tech Track CTF Competitor + Instructor, CS Sidekicks Assistant Publicity and Outreach Officer + Student Mentor</li>
+  </ul>
 </p>
-
-```yaml
-name: Nicole Laureno
-located_in: Sarasota, FL + Durham, NC
-education: Bachelor of Science in Computer Science, Minor in Psychology - Duke University
-previous_experience: [
-"Software Engineering Intern @ Forewarned, Inc",
-"Undergraduate Security Researcher @ DIABLO-1 Satellite Communications Research Team",
-"Duke Cyber Club Tech Track CTF Competitor and Instructor",
-"CS Sidekicks Assistant Publicity and Outreach Officer + Student Mentor"
-]
-```
-  
---- 
 
 ---
 
