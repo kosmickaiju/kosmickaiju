@@ -29,12 +29,6 @@ other_interests: F1
 ```
 
 ---
-<style>
-  li::marker {
-  color: #D20A2E;
-  content: "ᯓ★ ";
-  }
-</style>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=D20A2E&height=100&section=footer"/>
