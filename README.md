@@ -2,13 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=D20A2E&height=100&section=header&text=Hey%20There!-nl-Welcome%20to%20my%20GitHub%20ᯓ★&fontSize=30&animation=twinkling&fontColor=fbfcf8"/>
 </p>
 
-<style>
-  li::marker {
-  color: #D20A2E;
-  content: "ᯓ★ ";
-  }
-</style>
-
 ---
 
 <h1>whoami?</h1>
@@ -36,6 +29,12 @@ other_interests: F1
 ```
 
 ---
+<style>
+  li::marker {
+  color: #D20A2E;
+  content: "ᯓ★ ";
+  }
+</style>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=D20A2E&height=100&section=footer"/>
