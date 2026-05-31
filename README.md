@@ -8,8 +8,10 @@
 
 <p>
   <li>
-    name: Nicole Laureno
-    located_in: Sarasota, FL + Durham, NC
+    name: Nicole Laureno <br>
+    located_in: Sarasota, FL + Durham, NC <br>
+    education: B.S. Computer Science + Psychology Minor - Duke University <br>
+    previous_experience: Software Engineering Intern @ Forewarned, Inc; Undergraduate Security Researcher @ DIABLO-1 Satellite Communications Research Team, Duke Cyber Club Tech Track CTF Competitor + Instructor, CS Sidekicks Assistant Publicity and Outreach Officer + Student Mentor <br>
   </li>
 </p>
 
