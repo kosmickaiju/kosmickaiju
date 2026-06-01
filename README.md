@@ -7,12 +7,10 @@
 <h1 align="center">whoami?</h1>
 
 <p align="center">
-  <ul>
-    <li>Nicole Laureno</li>
-    <li>📍 Sarasota, FL + Durham, NC</li>
-    <li>B.S. Computer Science + Psychology Minor - Duke University</li>
-    <li>Previous Experiences: Software Engineering Intern @ Forewarned, Inc; Undergraduate Security Researcher @ DIABLO-1 Satellite Communications Research Team, Duke Cyber Club Tech Track CTF Competitor + Instructor, CS Sidekicks Assistant Publicity and Outreach Officer + Student Mentor</li>
-  </ul>
+  <strong>Nicole Laureno</strong><br>
+  📍 Sarasota, FL + Durham, NC
+  B.S. Computer Science + Psychology Minor - Duke University
+  Previous Experiences: Software Engineering Intern @ Forewarned, Inc; Undergraduate Security Researcher @ DIABLO-1 Satellite Communications Research Team, Duke Cyber Club Tech Track CTF Competitor + Instructor, CS Sidekicks Assistant Publicity and Outreach Officer + Student Mentor
 </p>
 
 <h1 align="center">Skills and Interests</h1>
