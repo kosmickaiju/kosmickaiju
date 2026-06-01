@@ -46,10 +46,10 @@
 <h3>Certifications</h3>
 <p>CompTIA Security+ (SY0-701), Practical Junior Penetration Tester (pJPT, in progress!)</p>
 
-<h3>Career + Other Interests</h3>
+<h2>Career + Other Interests</h2>
 <p>Career Interests: Offensive Security/Ethical Hacking, Security Research, AI/ML Security <br>
   Other Interests: Formula 1, Cooking/Baking
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=D20A2E&height=100&section=footer&text=Check%out%my%projects%↴&fontSize=30&animation=twinkling&fontColor=fbfcf8"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=D20A2E&height=100&section=footer&text=Check%20out%20my%20projects%20↴&fontSize=30&animation=twinkling&fontColor=fbfcf8"/>
 
