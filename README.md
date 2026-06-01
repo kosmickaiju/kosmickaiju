@@ -28,6 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height=100/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=100/>           
 </p>
+
 <h3>Tools + Platforms</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height=100/>
@@ -39,21 +40,16 @@
   ... + Fluent Bit, Fluentd, Wireguard, Strongswan
 </p>
 
-<p align="center">
-  <ul>
-    <li>Technical Skills
-      <ul>
-        <li>Programming Languages: Python, Java, C, SQL, Bash, HTML/CSS, JS</li>
-        <li>Tools + Platforms: Docker, Git, GitHub, Ubuntu Linux, MacOS, Windows, Fluent Bit, Fluentd, Wireguard, StrongSwan</li>
-        <li>Security Tools: Nmap, Wireshark, Metasploit, Kali Linux, Snort, Breach-Parse, Burp Suite</li>
-        <li>Certifications: CompTIA Security+ (SY0-701, August 2025), Practical Junior Penetration Tester (pJPT, in progress)</li>
-      </ul>
-    </li>
-    <li>Career Interests: Offensive Security/Ethical Hacking, Security Research, AI/ML Security</li>
-    <li>Other Interests: Formula 1, Cooking/Baking</li>
-  </ul>
-</p>
+<h3>Security Tools</h3>
+<p>Nmap, Wireshark, Metasploit, Kali Linux, Snort, Burp Suite</p>
 
+<h3>Certifications</h3>
+<p>CompTIA Security+ (SY0-701), Practical Junior Penetration Tester (pJPT, in progress!)</p>
+
+<h3>Career + Other Interests</h3>
+<p>Career Interests: Offensive Security/Ethical Hacking, Security Research, AI/ML Security <br>
+  Other Interests: Formula 1, Cooking/Baking
+</p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=D20A2E&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=D20A2E&height=100&section=footer&text=Check%out%my%projects%↴&fontSize=30&animation=twinkling&fontColor=fbfcf8"/>
 
