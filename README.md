@@ -13,8 +13,6 @@
   </ul>
 </p>
 
----
-
 <h1 align="center">Skills and Interests</h1>
 
 <p align="center">
