@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=D20A2E&height=100&section=header&text=Hey%20There!-nl-Welcome%20to%20my%20GitHub%20ᯓ★&fontSize=30&animation=twinkling&fontColor=fbfcf8"/>
 </p>
 
----
-
 <h1 align="center">whoami?</h1>
 
 <p align="center">
@@ -33,17 +31,6 @@
     <li>Other Interests: Formula 1, Cooking/Baking</li>
   </ul>
 </p>
-
-```yaml
-technical_skills: [
-"Programming Languages: Python, Java, C, SQL, Bash, HTML/CSS, JS",
-"Tools and Platforms: Docker, Git, GitHub, Ubuntu Linux"
-]
-career_interests: Offensive Security/Ethical Hacking, Security Research, AI/ML Security
-other_interests: F1
-```
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=D20A2E&height=100&section=footer"/>
