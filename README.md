@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=D20A2E&height=100&section=header&text=Hey%20There!-nl-Welcome%20to%20my%20GitHub%20ᯓ★&fontSize=30&animation=blink&fontColor=fbfcf8"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=D20A2E&height=100&section=header&text=Hey%20There!-nl-Welcome%20to%20my%20GitHub%20ᯓ★&fontSize=30&animation=fadeIn&fontColor=fbfcf8"/>
 </p>
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
@@ -8,10 +8,10 @@
 
 <p align="center">
   <ul>
-    <li>name: Nicole Laureno</li>
-    <li>located_in: Sarasota, FL + Durham, NC</li>
-    <li>education: B.S. Computer Science + Psychology Minor - Duke University</li>
-    <li>previous_experience: Software Engineering Intern @ Forewarned, Inc; Undergraduate Security Researcher @ DIABLO-1 Satellite Communications Research Team, Duke Cyber Club Tech Track CTF Competitor + Instructor, CS Sidekicks Assistant Publicity and Outreach Officer + Student Mentor</li>
+    <li>Nicole Laureno</li>
+    <li>📍 Sarasota, FL + Durham, NC</li>
+    <li>B.S. Computer Science + Psychology Minor - Duke University</li>
+    <li>Previous Experiences: Software Engineering Intern @ Forewarned, Inc; Undergraduate Security Researcher @ DIABLO-1 Satellite Communications Research Team, Duke Cyber Club Tech Track CTF Competitor + Instructor, CS Sidekicks Assistant Publicity and Outreach Officer + Student Mentor</li>
   </ul>
 </p>
 
@@ -48,8 +48,8 @@
 
 <h2>Career + Other Interests</h2>
 <p>Career Interests: Offensive Security/Ethical Hacking, Security Research, AI/ML Security <br>
-  Other Interests: Formula 1, Cooking/Baking
+  Other Interests: Formula 1, Cooking/Baking, Dance
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=D20A2E&height=100&section=footer&text=Check%20out%20my%20projects%20↴&fontSize=30&animation=blink&fontColor=fbfcf8"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=D20A2E&height=100&section=footer&text=Check%20out%20my%20projects%20↴&fontSize=30&animation=fadeIn&fontColor=fbfcf8"/>
 
