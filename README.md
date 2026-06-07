@@ -46,7 +46,7 @@
 
 <h2>Career + Other Interests</h2>
 <p>Career Interests: Offensive Security/Ethical Hacking, Security Research, AI/ML Security <br>
-  Other Interests: Formula 1, Cooking/Baking, Dance
+  Other Interests: Formula 1, Cooking/Baking, Dance, Fashion
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=D20A2E&height=100&section=footer&text=Check%20out%20my%20projects%20↴&fontSize=30&animation=fadeIn&fontColor=fbfcf8"/>
