@@ -39,10 +39,10 @@
 </p>
 
 <h3>Security Tools</h3>
-<p>Nmap, Wireshark, Metasploit, Kali Linux, Snort, Burp Suite</p>
+<p>Nmap, Wireshark, Metasploit, Kali Linux, Snort, Breach-Parse, Burp Suite, Nikto, Dirbuster, Gobuster, Nessus</p>
 
 <h3>Certifications</h3>
-<p>CompTIA Security+ (SY0-701), Practical Junior Penetration Tester (pJPT, in progress!)</p>
+<p>CompTIA Security+ (SY0-701), Practical Junior Penetration Tester (pJPT, expected August 2026)</p>
 
 <h2>Career + Other Interests</h2>
 <p>Career Interests: Offensive Security/Ethical Hacking, Security Research, AI/ML Security <br>
